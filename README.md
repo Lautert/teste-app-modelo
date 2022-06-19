@@ -10,6 +10,10 @@
 ## Estrutura do Sistema
 - Docker
 - Nginx
-- Mysql
 - PHP 7.3
+- Postgres
 - CakePHP 4 (Framework)
+- PgAdmin 4
+
+
+

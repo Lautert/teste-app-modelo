@@ -1,6 +1,8 @@
 ## DOCKER
 https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-20-04
 
+https://adamtheautomator.com/jenkins-docker/#Creating_the_Docker_Compose_Files
+
 # Show all docker ps
 > docker ps -a
 
